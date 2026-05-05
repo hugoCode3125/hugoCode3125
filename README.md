@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Hugues Fawzi OUEDRAOGO</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="32px" width="50px"> I'm Hugues Fawzi OUEDRAOGO</h1>
 <h3 align="center">Aspiring Software Engineer and Distributed Systems Student</h3>
 
 <p align="center">
