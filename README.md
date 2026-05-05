@@ -6,8 +6,9 @@
     <img src="https://komarev.com/ghpvc/?username=hugoCode3125&label=Profile%20views&color=00FFFF&style=flat-square" alt="hugoCode3125's profile views" />
   </a>
 </p>
-
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="Banner" width="100%" />
+<p align="center">
+  <img width="600px" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="Banner"  />
+</p>
 
 ## 📌 About Me
 - Bonjour, je suis Hugues, étudiant en Génie Logiciel et Systèmes Informatiques Distribués, passionné par le développement d’applications web modernes, les systèmes intelligents et les technologies innovantes.
